@@ -1,1 +1,20 @@
 Criando um diretório de arquivo no Github
+Data.:25/04/2022
+Testando a tomada da bancada do SENAC:121,7v
+(Obs:Testei a tomada usando o multimetro ma escala alternada de 200)
+
+Testando a continuidade do cabo de força 
+(Obs:diodo neutro/o,2V fase/0,4V terra/0,3V)
+
+Testando a continuidade do cabo de força na tomada
+(Obs:Testei o cabo de força ligado na tomada com o multímetro com a ponta preta no neutro e com a ponta vermelha no fase e deu 121,4V)
+
+Lingando a fonte de alimentaçao na tomada:
+(Obs eu liguei a fonte usando um clips cortado ao meio, coloquei uma ponta do clips no pson e a outra no neutro) pson (Power Switch - on/off)
+
+Testando a corrente continua da fonte 
+(Obs: laranja + preto= 3.28V vermelho + preto= 5.08V amarelo + preto= 12.07V)
+
+Testando a fonte de alimentaçao com o Power Tester
+(Obs: No Power Tester o -12 deu -11.9V , o +12 deu 12.0V , o 5vsb deu 4.9 , o pg deu 320 , o +5v deu 5.0 , o +12vl deu 12.0 , o +3.3V deu 3.30 )
+

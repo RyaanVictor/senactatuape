@@ -18,3 +18,8 @@ Testando a corrente continua da fonte
 Testando a fonte de alimentaçao com o Power Tester
 (Obs: No Power Tester o -12 deu -11.9V , o +12 deu 12.0V , o 5vsb deu 4.9 , o pg deu 320 , o +5v deu 5.0 , o +12vl deu 12.0 , o +3.3V deu 3.30 )
 
+Ligando os collers na Protoboard
+(Obs:usando 8 jumpers na protoboard, ligando um no + e um em qualquer letra da coluna de baixo , depois colocando 3 na linha do positivo e 3 na linha do negativo, ligando um jumper negativo na entrada negativa da fonte e um positivo no neutro da fonte )
+
+Ligando as fontes na protoboard em corrente continua ultilizando o multimetro para medir a amperagem 
+(Obs: Com uma pinca jacare prendesse um jumper e uma ponta do multimetro , a mesma coisa com a outra ponta, depois um jumper ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

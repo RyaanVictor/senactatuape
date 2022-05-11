@@ -1,0 +1,8 @@
+Testando as tensoes eletricas da tomada (corrente alternada )
+Obs: Fase + Neutro 123.3V, Fase + Terra 123.5V,Neutro + Fase 00.0V
+
+Testando a continuidade do cabo de forca (teste de diodo )
+Obs: Neutro + Fase 00.0V, Neutro + Terra 00.0V, Terra c/ Terra 00.0V
+
+Testando a ressitencia do cabo de forca (Teste de 200 ohms) 
+Obs: Neutro c/ Neutro 0.03, Terra c/ Terra 0.04, Fase c/ Fase 0.04

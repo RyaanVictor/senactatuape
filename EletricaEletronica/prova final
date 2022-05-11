@@ -6,3 +6,9 @@ Obs: Neutro + Fase 00.0V, Neutro + Terra 00.0V, Terra c/ Terra 00.0V
 
 Testando a ressitencia do cabo de forca (Teste de 200 ohms) 
 Obs: Neutro c/ Neutro 0.03, Terra c/ Terra 0.04, Fase c/ Fase 0.04
+
+Testando a Ressistencia do cabo de forca na tomada (Corrente Alternada)
+Obs: Neutro + Fase 123.2V, Neutro + Terra 00.1, Terra + Fase 123.5 
+
+Testando a fonte (Testador de Fonte)
+Obs: -12V = -12.3, +12V2 = 12.3, 5VSB = 5.0 PG = 330ms, +5V = 5.1 +12V1 = 12.2, +3.3V = 3.3 

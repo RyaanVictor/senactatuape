@@ -12,3 +12,26 @@ Obs: Neutro + Fase 123.2V, Neutro + Terra 00.1, Terra + Fase 123.5
 
 Testando a fonte (Testador de Fonte)
 Obs: -12V = -12.3, +12V2 = 12.3, 5VSB = 5.0 PG = 330ms, +5V = 5.1 +12V1 = 12.2, +3.3V = 3.3 
+
+Montando o circuito na Protoboard (usando clips) 
+Obs: circuito de 12V(cabo amarelo 12V + preto 0V/COM/Terra)
+Primeira Trilha Horizontal
+
+Obs: circuito de 5V (cabo vermelho 5V + preto 0V/COM/Terra)
+Segunda Trilha Horizontal
+
+Obs: circuito de 7V (cabo amarelo 12V + vermelho 5V)
+Terceira Trilha Horizontal
+
+Montando o circuito com 02 multimetros
+Primeiro multimetro: testar tensao eletrica (20V-cc/dc)
+segundo multimetro: testar corrente eletrica (10a)zzz
+Obs:Mudar o cabo do multimetro para corrente eletrica
+
+Montar o circuito em paralelo dos collers 
+Obs: U x I = 3,198
+
+Montar o circuito em paralelo dos LEDs
+Primeiro: medir a ressitencia do resistor = 327
+Segundo: Testar o led no multimetro(opçao led)
+( U x I = 4,221

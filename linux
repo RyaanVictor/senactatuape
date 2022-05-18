@@ -1,1 +1,23 @@
+$ é usuário comun
+# é usuário root
+sudo apt update            <--- atualizar as listas do apt
 
+sudo apt upgrade           <--- atualiza todos os software
+
+sudo apt full-upgrade      <--- atualiza todos os software (atualização completa)
+
+sudo apt dist-upgrade      <--- atualiza o sistema operacional (kernel)
+
+sudo apt autoremove        <--- remoção de software não mais necessário 
+
+sudo apt autoclean         <--- fazer a limpeza do sistema
+
+sudo reboot                <--- reiniciar
+
+sudo apt install           <--- instalar aplicativos 
+
+sudo apt install psensor
+sudo apt install p7zip-full p7zip-rar guvcview cheese
+sudo apt install kazam audacity vlc kolourpaint notepadqq
+
+sudo init 0

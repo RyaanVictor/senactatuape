@@ -1,0 +1,12 @@
+
+	git clone (clonar um repositótio remoto)
+	git pull  ( Atualizar o repositótio local)
+	
+	git config --global user.name (Usuário de Comint)
+	git config --global user.email ( Usuário de Acesso)
+	git config --list              ( listar as Configurações)
+	
+	git add .                      (Adicionar as Mudanças)
+	git commit -m "Atualizacao"    (Confirmar as Mudanças)
+	git push                       (Atualiza o Repositório remoto)
+	

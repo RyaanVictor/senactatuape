@@ -1,0 +1,20 @@
+palavra em cor azul faz referencia a diretorio 
+
+palavra em cor cinza ou branco é arquivo 
+
+palavra em cor azul claro é um link simbolico
+
+palavra em marca texto verde = perigo
+ 
+palavra em cor vermelha é um arquivo compactado
+
+comandos 
+
+cd                (mudar diretorio)
+cd /              ( / é igual root= raiz
+
+ls                (listar diretorios)
+ls -lh            (listar informações dos diretorios)
+mkdir -v          (criar diretorios)
+touch             (criar arquivos)
+mkdir -pv         (criar diretorios pai e filho "um dentro do outro" mesmo que o primeiro anida n exista)

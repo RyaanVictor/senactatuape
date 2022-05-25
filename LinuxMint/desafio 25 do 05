@@ -8,4 +8,4 @@ para o comando head eu usei: head -n 20 /etc/services
 
 para o comando tail eu usei: tail -n 20 /etc/services
 
-para o comando rdmir eu usei : rmdir teste01/
+para o comando rdmir eu usei :  rmdir -p teste01/teste01/teste01 

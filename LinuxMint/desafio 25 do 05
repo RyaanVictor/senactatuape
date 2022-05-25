@@ -1,0 +1,11 @@
+eu utilizei o guia foca para entender como usar os comandos echo, cat, head, tail e rdmir 
+
+eu usei o comando: echo senac01.txt , para criar um arquivo usando o comando echo 
+
+com o comando cat eu usei: cat --number /etc/services
+
+para o comando head eu usei: head -n 20 /etc/services
+
+para o comando tail eu usei: tail -n 20 /etc/services
+
+para o comando rdmir eu usei : rmdir teste01/

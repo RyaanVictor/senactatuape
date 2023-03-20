@@ -2,9 +2,61 @@ Ambiente
 --> 	- Java 17 LTS
 		- Eclipse
 		- VSCode
-		- Intelij
+		- Intellij
 		
 Dowloads 
 --> 	https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
  		https://jdk.java.net/17/
 		https://adoptium.net/
+	
+codigo VSCode
+
+	package Aula01;
+public class Primeiro{
+
+    public static void main(String[] args){
+        System.out.println("Olá Manoel Gomes!");
+
+    }
+
+}
+
+
+codigos Eclipse
+
+1
+package br.com.logica.introducao;
+
+public class Primeiro {
+	
+	public static void main(String[] args ) {
+		
+		System.out.println("Olá Manoel Gomes!");
+		
+	}
+
+}
+
+
+2
+package br.com.logica.introducao;
+
+import java.util.Scanner;
+
+public class EntradaTexto {
+
+	public static void main(String[] args) {
+		
+		String nome;
+		
+		Scanner texto = new Scanner(System.in);
+		
+		System.out.println("Digite o seu nome");
+		
+		nome = texto.next();
+		
+		System.out.println("Olá " + nome);
+
+	}
+
+}

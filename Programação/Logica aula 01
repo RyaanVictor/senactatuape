@@ -3,12 +3,12 @@ Ambiente
 		- Eclipse
 		- VSCode
 		- Intellij
-		
+------------------------------------------------------------------------------------------		
 Dowloads 
 --> 	https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
  		https://jdk.java.net/17/
 		https://adoptium.net/
-	
+-------------------------------------------------------------------------------------------
 codigo VSCode
 
 	package Aula01;
@@ -20,11 +20,12 @@ public class Primeiro{
     }
 
 }
-
+---------------------------------------------------------------------------------------------
 
 codigos Eclipse
-
+------
 1
+
 package br.com.logica.introducao;
 
 public class Primeiro {
@@ -37,8 +38,9 @@ public class Primeiro {
 
 }
 
-
+----------------------------------------------------------------------------------------------
 2
+
 package br.com.logica.introducao;
 
 import java.util.Scanner;
@@ -60,3 +62,8 @@ public class EntradaTexto {
 	}
 
 }
+-----------------------------------------------------------------------------------------------
+Tipos de Linguagem 
+Baixo-nivel
+Alto-nivel
+-----------------------------------------------------------------------------------------------
